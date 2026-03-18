@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "analyzing-dotnet-performance": {
+      "source": "dotnet/skills",
+      "sourceType": "github",
+      "computedHash": "f8626732348d66f4ffeab6935fb1c1f2f9921cbc2a3901cfc87e4dfe34a3b912"
+    },
+    "build-perf-baseline": {
+      "source": "dotnet/skills",
+      "sourceType": "github",
+      "computedHash": "0bb79fb36615517025e25e5dca8e78086d55804e3cdfdab05e4d1ceadad1147c"
+    },
+    "build-perf-diagnostics": {
+      "source": "dotnet/skills",
+      "sourceType": "github",
+      "computedHash": "b900acb78b92585ea27283dada3363f33511026ffb683a2efe53f4c7eb8c0990"
+    },
+    "eval-performance": {
+      "source": "dotnet/skills",
+      "sourceType": "github",
+      "computedHash": "bb39c73f4273da5da1d786c8a34629ac1037e07fbace986e0b75c5edee1b4ac8"
+    },
+    "optimizing-ef-core-queries": {
+      "source": "dotnet/skills",
+      "sourceType": "github",
+      "computedHash": "0a0d0bb8844bb88e3067c4a47780c844960d09eeaa7f9dcdba6400e1b2e6f288"
+    },
+    "run-tests": {
+      "source": "dotnet/skills",
+      "sourceType": "github",
+      "computedHash": "b1ad04c9ac01ba6e22aa5dbb9f74d91517a3aaee0314d53047e790bb739dd601"
+    }
+  }
+}
