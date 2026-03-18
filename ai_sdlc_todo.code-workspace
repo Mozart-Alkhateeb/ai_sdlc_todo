@@ -1,0 +1,33 @@
+{
+  "folders": [
+    {
+      "name": "project-root",
+      "path": "./",
+    },
+    {
+      "name": "docs",
+      "path": "./docs",
+    },
+    {
+      "name": "prompts",
+      "path": "./prompts",
+    },
+    {
+      "name": "backend",
+      "path": "./src/backend",
+    },
+    {
+      "name": "frontend",
+      "path": "./src/frontend",
+    }
+  ],
+  "settings": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "files.exclude": {
+      "node_modules/": true
+    },
+    "files.associations": {
+      "*.css": "tailwindcss",
+    },
+  }
+}
